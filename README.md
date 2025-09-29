@@ -83,7 +83,7 @@ This project requires the following dependencies:
 
 ### Install All Dependencies
 
-#### Option 1: Direct pip install (quick setup)
+#### Direct pip install (quick setup)
 ```bash
 pip install tensorflow tensorflow-datasets matplotlib numpy
 
