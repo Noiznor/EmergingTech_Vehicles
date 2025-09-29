@@ -75,13 +75,10 @@ We filter the **CIFAR-100 dataset** to focus only on specific vehicle classes, p
 ---
 
 ## 🔧 Requirements
-- Python 3.8+  
-- TensorFlow 2.x  
-- TensorFlow Datasets  
-- Matplotlib  
-- NumPy  
+This project requires the following dependencies:
 
-Install dependencies:
 ```bash
-pip install tensorflow tensorflow-datasets matplotlib numpy
-
+tensorflow
+tensorflow-datasets
+matplotlib
+numpy
